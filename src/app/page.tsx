@@ -8,5 +8,6 @@ export default function Home() {
     <main className="h-dvh bg-gradient-to-bl from-stone-900 to-slate-950 text-stone-100">
       <Scene/>
     </main>
+    
   );
 }
